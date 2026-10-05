@@ -28,20 +28,21 @@ Página 3 — Análise Geográfica e de Lucratividade
 
 Página desenvolvida de forma independente para atender ao desafio proposto, contendo:
 
-Mapa 1: análise da soma de vendas e unidades vendidas por país;
-Mapa 2: análise da soma de lucro por país;
-Gráfico de pizza: distribuição do lucro por segmento.
+a) Mapa 1: análise da soma de vendas e unidades vendidas por país;
 
-Essa página permite comparar o desempenho entre diferentes regiões e identificar como o lucro está distribuído entre os segmentos da empresa.
+b) Mapa 2: análise da soma de lucro por país;
+
+c) Gráfico de pizza: distribuição do lucro por segmento.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Tecnologias e ferramentas
-Microsoft Power BI
-Power Query
-DAX
-Visualizações interativas
-Mapas
-Gráficos de pizza
-Segmentação e filtros
+   
+- Microsoft Power BI
+- Power Query
+- DAX
+- Visualizações interativas
+- Mapas
+- Gráficos de pizza
+- Segmentação e filtros
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Habilidades desenvolvidas
 
